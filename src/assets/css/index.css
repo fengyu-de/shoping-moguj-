@@ -1,0 +1,16 @@
+/* 自己的项目css初始化 */
+@import './normalize.css';
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
