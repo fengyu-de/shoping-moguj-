@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
     "nprogress": "^0.2.0",
-    "swiper": "^5.4.0",
+    "swiper": "^6.5.1",
     "vant": "^2.8.1",
     "vue": "^2.6.11",
     "vue-awesome-swiper": "^4.1.1",
